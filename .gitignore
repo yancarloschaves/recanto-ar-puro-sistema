@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -137,3 +138,10 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+=======
+# Arquivo de variáveis de ambiente
+.env
+
+# Pasta de dependências do Node.js
+node_modules/
+>>>>>>> 9c84c08 (Implementa endpoints GET e POST para funcionários)
